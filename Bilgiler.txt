@@ -1,0 +1,6 @@
+Ürünler sayfası açıldı: http://localhost:3000/urunler
+Sonraki hızlı adımlar:
+
+Admin girişi: http://localhost:3000/admin
+Kullanıcı adı: admin
+Şifre: GucluSifre123!
